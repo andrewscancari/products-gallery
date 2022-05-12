@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "ritwickdey.LiveServer"
+    ]
+}
