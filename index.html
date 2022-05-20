@@ -30,7 +30,7 @@
 
       <script>
         (async () => {
-          const productsData = await fetch("/mock-api/products.json")
+          const productsData = await fetch("./mock-api/products.json")
             .then((res) => (res.ok ? res.json() : []))
             .catch((err) => {
               console.log("request product api error", err);
