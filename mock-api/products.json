@@ -2,32 +2,32 @@
   {
     "name": "verus",
     "price": "79499",
-    "image": "assets/Verus-GTAO-front.webp"
+    "image": "assets/verus.webp"
   },
   {
     "name": "APC",
     "price": "259999",
-    "image": "assets/APC-GTAO-front.webp"
+    "image": "assets/apc.webp"
   },
   {
     "name": "blazer lifeguard",
     "price": "62399",
-    "image": "assets/BlazerLifeguard-GTAV-front.webp"
+    "image": "assets/blazer-lifeguard.webp"
   },
   {
     "name": "barrage",
     "price": "85999",
-    "image": "assets/Barrage-GTAO-front.webp"
+    "image": "assets/barrage.webp"
   },
   {
     "name": "blazer aqua",
     "price": "68999",
-    "image": "assets/BlazerAqua-GTAO-front.webp"
+    "image": "assets/blazer-aqua.webp"
   },
   {
     "name": "stockade",
     "price": "123499",
-    "image": "assets/Stockade-GTAV-front.webp",
+    "image": "assets/stockade.webp",
     "discount": "99999"
   }
 ]
